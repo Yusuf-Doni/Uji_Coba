@@ -11,10 +11,10 @@ export default defineConfig(({ mode }) => {
 
   // Get backend URLs from environment variables with fallbacks
 
-  const apiBaseUrl = env.VITE_API_BASE_URL || 'http://192.168.20.71:8085';
-  const oauthBaseUrl = env.VITE_OAUTH_BASE_URL || apiBaseUrl;
-  // const apiBaseUrl = env.VITE_API_BASE_URL || 'http://139.180.140.143:13010';
-  // const oauthBaseUrl = env.VITE_OAUTH_BASE_URL || 'http://139.180.140.143:13010';
+  // const apiBaseUrl = env.VITE_API_BASE_URL || 'http://192.168.20.71:8085';
+  // const oauthBaseUrl = env.VITE_OAUTH_BASE_URL || apiBaseUrl;
+  const apiBaseUrl = env.VITE_API_BASE_URL || 'http://139.180.140.143:13010';
+  const oauthBaseUrl = env.VITE_OAUTH_BASE_URL || 'http://139.180.140.143:13010';
   // const apiBaseUrl = env.VITE_API_BASE_URL || 'http://192.168.1.236:8085';
   // const oauthBaseUrl = env.VITE_OAUTH_BASE_URL || 'http://192.168.1.236:8085';
 
