@@ -1,0 +1,218 @@
+{
+  "code": 200,
+  "message": "Success",
+  "data": [
+    {
+      "id": "gcg-dynamic-001",
+      "namaImplementasi": "GCG Implementation Dynamic 2024",
+      "tahun": 2024,
+      "deskripsi": "Implementasi GCG dengan parameter dinamis untuk tahun 2024",
+      "aspectId": "asp-001",
+      "status": "In Progress",
+      "parameterStructure": [
+        {
+          "id": "param-dyn-001",
+          "level": 1,
+          "nama": "Transparansi Informasi",
+          "deskripsi": "Parameter untuk mengukur tingkat transparansi informasi perusahaan",
+          "bobot": 0.609,
+          "subFaktorLevel2": 1.0,
+          "subFaktorLevel1": 1.0,
+          "faktor": 1.0,
+          "uraianPemenuhan": "Transparansi informasi sudah sangat baik",
+          "pic": "div-002",
+          "status": "Selesai",
+          "children": [
+            {
+              "id": "sub-param-dyn-001",
+              "level": 2,
+              "nama": "Laporan Tahunan",
+              "deskripsi": "Sub parameter untuk laporan tahunan",
+              "bobot": 0.305,
+              "subFaktorLevel2": 1.0,
+              "subFaktorLevel1": 1.0,
+              "faktor": 1.0,
+              "uraianPemenuhan": "Laporan tahunan sudah diselesaikan tepat waktu",
+              "pic": "div-004",
+              "status": "Selesai",
+              "children": [
+                {
+                  "id": "sub-sub-param-dyn-001",
+                  "level": 3,
+                  "nama": "Laporan Keuangan",
+                  "deskripsi": "Sub-sub parameter untuk laporan keuangan",
+                  "bobot": 0.152,
+                  "subFaktorLevel2": 1.0,
+                  "subFaktorLevel1": 1.0,
+                  "faktor": 1.0,
+                  "uraianPemenuhan": "Laporan keuangan sudah sesuai standar",
+                  "pic": "div-004",
+                  "status": "Selesai",
+                  "children": [
+                    {
+                      "id": "sub-sub-sub-param-dyn-001",
+                      "level": 4,
+                      "nama": "Audit Eksternal",
+                      "deskripsi": "Sub-sub-sub parameter untuk audit eksternal",
+                      "bobot": 0.076,
+                      "subFaktorLevel2": 1.0,
+                      "subFaktorLevel1": 1.0,
+                      "faktor": 1.0,
+                      "uraianPemenuhan": "Audit eksternal sudah selesai",
+                      "pic": "div-006",
+                      "status": "Selesai",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "sub-sub-param-dyn-002",
+                  "level": 3,
+                  "nama": "Laporan Operasional",
+                  "deskripsi": "Sub-sub parameter untuk laporan operasional",
+                  "bobot": 0.153,
+                  "subFaktorLevel2": 1.0,
+                  "subFaktorLevel1": 1.0,
+                  "faktor": 1.0,
+                  "uraianPemenuhan": "Laporan operasional dalam proses finalisasi",
+                  "pic": "div-004",
+                  "status": "In Progress",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "sub-param-dyn-002",
+              "level": 2,
+              "nama": "Laporan Keberlanjutan",
+              "deskripsi": "Sub parameter untuk laporan keberlanjutan",
+              "bobot": 0.304,
+              "subFaktorLevel2": 1.0,
+              "subFaktorLevel1": 1.0,
+              "faktor": 1.0,
+              "uraianPemenuhan": "Laporan keberlanjutan sedang dalam tahap review",
+              "pic": "div-005",
+              "status": "In Progress",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "param-dyn-002",
+          "level": 1,
+          "nama": "Akuntabilitas Manajemen",
+          "deskripsi": "Parameter untuk mengukur akuntabilitas manajemen",
+          "bobot": 0.500,
+          "subFaktorLevel2": 0.75,
+          "subFaktorLevel1": 1.0,
+          "faktor": 1.0,
+          "uraianPemenuhan": "Akuntabilitas manajemen sudah baik",
+          "pic": "div-006",
+          "status": "In Progress",
+          "children": [
+            {
+              "id": "sub-param-dyn-003",
+              "level": 2,
+              "nama": "Sistem Pengendalian Intern",
+              "deskripsi": "Sub parameter untuk sistem pengendalian intern",
+              "bobot": 0.250,
+              "subFaktorLevel2": 0.75,
+              "subFaktorLevel1": 1.0,
+              "faktor": 1.0,
+              "uraianPemenuhan": "Sistem pengendalian intern sedang diperbaiki",
+              "pic": "div-006",
+              "status": "In Progress",
+              "children": []
+            },
+            {
+              "id": "sub-param-dyn-004",
+              "level": 2,
+              "nama": "Manajemen Risiko",
+              "deskripsi": "Sub parameter untuk manajemen risiko",
+              "bobot": 0.250,
+              "subFaktorLevel2": 0.75,
+              "subFaktorLevel1": 1.0,
+              "faktor": 1.0,
+              "uraianPemenuhan": "Manajemen risiko sudah cukup baik",
+              "pic": "div-007",
+              "status": "Selesai",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "parameters": [
+        {
+          "id": "param-dyn-001",
+          "level": 1,
+          "nama": "Transparansi Informasi",
+          "deskripsi": "Parameter untuk mengukur tingkat transparansi informasi perusahaan",
+          "bobot": 0.609,
+          "status": "Selesai"
+        },
+        {
+          "id": "sub-param-dyn-001",
+          "level": 2,
+          "nama": "Laporan Tahunan",
+          "deskripsi": "Sub parameter untuk laporan tahunan",
+          "bobot": 0.305,
+          "status": "Selesai"
+        },
+        {
+          "id": "sub-sub-param-dyn-001",
+          "level": 3,
+          "nama": "Laporan Keuangan",
+          "deskripsi": "Sub-sub parameter untuk laporan keuangan",
+          "bobot": 0.152,
+          "status": "Selesai"
+        },
+        {
+          "id": "sub-sub-sub-param-dyn-001",
+          "level": 4,
+          "nama": "Audit Eksternal",
+          "deskripsi": "Sub-sub-sub parameter untuk audit eksternal",
+          "bobot": 0.076,
+          "status": "Selesai"
+        }
+      ]
+    },
+    {
+      "id": "gcg-dynamic-002",
+      "namaImplementasi": "GCG Implementation Dynamic BOD-1",
+      "tahun": 2024,
+      "deskripsi": "Implementasi GCG dinamis untuk BOD-1",
+      "aspectId": "asp-002",
+      "status": "Not Started",
+      "parameterStructure": [
+        {
+          "id": "param-dyn-003",
+          "level": 1,
+          "nama": "Kepatuhan Hukum",
+          "deskripsi": "Parameter untuk mengukur kepatuhan hukum",
+          "bobot": 0.750,
+          "subFaktorLevel2": 0.5,
+          "subFaktorLevel1": 1.0,
+          "faktor": 1.0,
+          "uraianPemenuhan": "Kepatuhan hukum masih perlu ditingkatkan",
+          "pic": "div-008",
+          "status": "Not Started",
+          "children": []
+        }
+      ],
+      "parameters": [
+        {
+          "id": "param-dyn-003",
+          "level": 1,
+          "nama": "Kepatuhan Hukum",
+          "deskripsi": "Parameter untuk mengukur kepatuhan hukum",
+          "bobot": 0.750,
+          "status": "Not Started"
+        }
+      ]
+    }
+  ],
+  "totalElement": 2,
+  "totalPages": 1,
+  "currentPage": 0,
+  "size": 10
+}

@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "message": "Success",
+  "data": [
+    {
+      "id": "div-001",
+      "nama": "Divisi Tata Kelola",
+      "kode": "TG",
+      "deskripsi": "Divisi yang bertanggung jawab atas tata kelola perusahaan",
+      "aktif": true
+    },
+    {
+      "id": "div-002",
+      "nama": "Divisi Komunikasi",
+      "kode": "KOM",
+      "deskripsi": "Divisi yang bertanggung jawab atas komunikasi dan informasi",
+      "aktif": true
+    },
+    {
+      "id": "div-003",
+      "nama": "Divisi Sekretariat",
+      "kode": "SEK",
+      "deskripsi": "Divisi yang bertanggung jawab atas administrasi dan sekretariat",
+      "aktif": true
+    },
+    {
+      "id": "div-004",
+      "nama": "Divisi Keuangan",
+      "kode": "KEU",
+      "deskripsi": "Divisi yang bertanggung jawab atas keuangan perusahaan",
+      "aktif": true
+    },
+    {
+      "id": "div-005",
+      "nama": "Divisi CSR",
+      "kode": "CSR",
+      "deskripsi": "Divisi yang bertanggung jawab atas tanggung jawab sosial perusahaan",
+      "aktif": true
+    },
+    {
+      "id": "div-006",
+      "nama": "Divisi Internal Audit",
+      "kode": "AUD",
+      "deskripsi": "Divisi yang bertanggung jawab atas audit internal",
+      "aktif": true
+    },
+    {
+      "id": "div-007",
+      "nama": "Divisi Manajemen Risiko",
+      "kode": "RISK",
+      "deskripsi": "Divisi yang bertanggung jawab atas manajemen risiko",
+      "aktif": true
+    },
+    {
+      "id": "div-008",
+      "nama": "Divisi Hukum",
+      "kode": "HUK",
+      "deskripsi": "Divisi yang bertanggung jawab atas aspek hukum dan kepatuhan",
+      "aktif": true
+    },
+    {
+      "id": "div-009",
+      "nama": "Divisi SDM",
+      "kode": "SDM",
+      "deskripsi": "Divisi yang bertanggung jawab atas sumber daya manusia",
+      "aktif": true
+    },
+    {
+      "id": "div-010",
+      "nama": "Divisi TI",
+      "kode": "TI",
+      "deskripsi": "Divisi yang bertanggung jawab atas teknologi informasi",
+      "aktif": true
+    }
+  ]
+}

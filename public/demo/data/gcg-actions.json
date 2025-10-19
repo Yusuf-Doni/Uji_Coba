@@ -1,0 +1,74 @@
+{
+  "param-001": {
+    "code": 200,
+    "message": "Success",
+    "data": [
+      {
+        "id": "action-001",
+        "nama": "Menyusun Laporan Tahunan",
+        "deskripsi": "Aksi untuk menyusun laporan tahunan sesuai standar",
+        "parameterId": "param-001",
+        "targetDate": "2024-12-31",
+        "status": "Selesai",
+        "aktif": true
+      },
+      {
+        "id": "action-002",
+        "nama": "Review Laporan Keberlanjutan",
+        "deskripsi": "Aksi untuk mereview laporan keberlanjutan",
+        "parameterId": "param-001",
+        "targetDate": "2024-11-30",
+        "status": "In Progress",
+        "aktif": true
+      }
+    ]
+  },
+  "param-002": {
+    "code": 200,
+    "message": "Success",
+    "data": [
+      {
+        "id": "action-003",
+        "nama": "Audit Transparansi Keuangan",
+        "deskripsi": "Aksi untuk melakukan audit transparansi keuangan",
+        "parameterId": "param-002",
+        "targetDate": "2024-10-31",
+        "status": "Selesai",
+        "aktif": true
+      },
+      {
+        "id": "action-004",
+        "nama": "Evaluasi Transparansi Operasional",
+        "deskripsi": "Aksi untuk mengevaluasi transparansi operasional",
+        "parameterId": "param-002",
+        "targetDate": "2024-11-15",
+        "status": "In Progress",
+        "aktif": true
+      }
+    ]
+  },
+  "param-004": {
+    "code": 200,
+    "message": "Success",
+    "data": [
+      {
+        "id": "action-005",
+        "nama": "Implementasi Sistem Pengendalian",
+        "deskripsi": "Aksi untuk mengimplementasikan sistem pengendalian intern",
+        "parameterId": "param-004",
+        "targetDate": "2024-12-15",
+        "status": "In Progress",
+        "aktif": true
+      },
+      {
+        "id": "action-006",
+        "nama": "Training Pengendalian Keuangan",
+        "deskripsi": "Aksi untuk memberikan training pengendalian keuangan",
+        "parameterId": "param-004",
+        "targetDate": "2024-11-30",
+        "status": "Not Started",
+        "aktif": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "param-001": {
+    "code": 200,
+    "message": "Success",
+    "data": [
+      {
+        "id": "sub-param-001",
+        "nama": "Laporan Tahunan",
+        "deskripsi": "Sub parameter untuk mengukur kualitas laporan tahunan",
+        "parameterId": "param-001",
+        "bobot": 0.305,
+        "urutan": 1,
+        "aktif": true
+      },
+      {
+        "id": "sub-param-002",
+        "nama": "Laporan Keberlanjutan",
+        "deskripsi": "Sub parameter untuk mengukur kualitas laporan keberlanjutan",
+        "parameterId": "param-001",
+        "bobot": 0.304,
+        "urutan": 2,
+        "aktif": true
+      }
+    ]
+  },
+  "param-002": {
+    "code": 200,
+    "message": "Success",
+    "data": [
+      {
+        "id": "sub-param-003",
+        "nama": "Transparansi Keuangan",
+        "deskripsi": "Sub parameter untuk mengukur transparansi laporan keuangan",
+        "parameterId": "param-002",
+        "bobot": 0.400,
+        "urutan": 1,
+        "aktif": true
+      },
+      {
+        "id": "sub-param-004",
+        "nama": "Transparansi Operasional",
+        "deskripsi": "Sub parameter untuk mengukur transparansi operasional",
+        "parameterId": "param-002",
+        "bobot": 0.209,
+        "urutan": 2,
+        "aktif": true
+      }
+    ]
+  },
+  "param-004": {
+    "code": 200,
+    "message": "Success",
+    "data": [
+      {
+        "id": "sub-param-005",
+        "nama": "Pengendalian Keuangan",
+        "deskripsi": "Sub parameter untuk mengukur pengendalian keuangan",
+        "parameterId": "param-004",
+        "bobot": 0.525,
+        "urutan": 1,
+        "aktif": true
+      },
+      {
+        "id": "sub-param-006",
+        "nama": "Pengendalian Operasional",
+        "deskripsi": "Sub parameter untuk mengukur pengendalian operasional",
+        "parameterId": "param-004",
+        "bobot": 0.525,
+        "urutan": 2,
+        "aktif": true
+      }
+    ]
+  }
+}

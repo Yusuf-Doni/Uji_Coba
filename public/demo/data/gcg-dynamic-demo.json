@@ -1,0 +1,264 @@
+{
+  "code": 200,
+  "message": "Success",
+  "data": [
+    {
+      "id": "gcg-demo-001",
+      "namaImplementasi": "GCG Comprehensive Implementation 2024",
+      "tahun": 2024,
+      "deskripsi": "Implementasi GCG komprehensif dengan struktur parameter dinamis yang lengkap",
+      "aspectId": "asp-001",
+      "status": "In Progress",
+      "parameterStructure": [
+        {
+          "id": "param-demo-001",
+          "level": 1,
+          "nama": "Tata Kelola Perusahaan",
+          "deskripsi": "Parameter utama untuk tata kelola perusahaan yang baik",
+          "bobot": 0.800,
+          "subFaktorLevel2": 1.0,
+          "subFaktorLevel1": 1.0,
+          "faktor": 1.0,
+          "uraianPemenuhan": "Implementasi tata kelola perusahaan sudah berjalan dengan baik",
+          "pic": "div-001",
+          "status": "Selesai",
+          "children": [
+            {
+              "id": "sub-param-demo-001",
+              "level": 2,
+              "nama": "Transparansi",
+              "deskripsi": "Sub parameter untuk transparansi dalam pengelolaan perusahaan",
+              "bobot": 0.400,
+              "subFaktorLevel2": 1.0,
+              "subFaktorLevel1": 1.0,
+              "faktor": 1.0,
+              "uraianPemenuhan": "Transparansi sudah sangat baik",
+              "pic": "div-002",
+              "status": "Selesai",
+              "children": [
+                {
+                  "id": "sub-sub-param-demo-001",
+                  "level": 3,
+                  "nama": "Pengungkapan Informasi",
+                  "deskripsi": "Sub-sub parameter untuk pengungkapan informasi",
+                  "bobot": 0.200,
+                  "subFaktorLevel2": 1.0,
+                  "subFaktorLevel1": 1.0,
+                  "faktor": 1.0,
+                  "uraianPemenuhan": "Pengungkapan informasi sudah sesuai standar",
+                  "pic": "div-003",
+                  "status": "Selesai",
+                  "children": [
+                    {
+                      "id": "sub-sub-sub-param-demo-001",
+                      "level": 4,
+                      "nama": "Laporan Tahunan",
+                      "deskripsi": "Sub-sub-sub parameter untuk laporan tahunan",
+                      "bobot": 0.100,
+                      "subFaktorLevel2": 1.0,
+                      "subFaktorLevel1": 1.0,
+                      "faktor": 1.0,
+                      "uraianPemenuhan": "Laporan tahunan sudah diselesaikan tepat waktu",
+                      "pic": "div-004",
+                      "status": "Selesai",
+                      "children": []
+                    },
+                    {
+                      "id": "sub-sub-sub-param-demo-002",
+                      "level": 4,
+                      "nama": "Laporan Keberlanjutan",
+                      "deskripsi": "Sub-sub-sub parameter untuk laporan keberlanjutan",
+                      "bobot": 0.100,
+                      "subFaktorLevel2": 1.0,
+                      "subFaktorLevel1": 1.0,
+                      "faktor": 1.0,
+                      "uraianPemenuhan": "Laporan keberlanjutan dalam tahap finalisasi",
+                      "pic": "div-005",
+                      "status": "In Progress",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "sub-sub-param-demo-002",
+                  "level": 3,
+                  "nama": "Komunikasi Stakeholder",
+                  "deskripsi": "Sub-sub parameter untuk komunikasi stakeholder",
+                  "bobot": 0.200,
+                  "subFaktorLevel2": 1.0,
+                  "subFaktorLevel1": 1.0,
+                  "faktor": 1.0,
+                  "uraianPemenuhan": "Komunikasi dengan stakeholders sudah efektif",
+                  "pic": "div-002",
+                  "status": "Selesai",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "sub-param-demo-002",
+              "level": 2,
+              "nama": "Akuntabilitas",
+              "deskripsi": "Sub parameter untuk akuntabilitas dalam pengelolaan",
+              "bobot": 0.400,
+              "subFaktorLevel2": 1.0,
+              "subFaktorLevel1": 1.0,
+              "faktor": 1.0,
+              "uraianPemenuhan": "Akuntabilitas sudah berjalan dengan baik",
+              "pic": "div-006",
+              "status": "In Progress",
+              "children": [
+                {
+                  "id": "sub-sub-param-demo-003",
+                  "level": 3,
+                  "nama": "Sistem Pengendalian Intern",
+                  "deskripsi": "Sub-sub parameter untuk sistem pengendalian intern",
+                  "bobot": 0.200,
+                  "subFaktorLevel2": 0.75,
+                  "subFaktorLevel1": 1.0,
+                  "faktor": 1.0,
+                  "uraianPemenuhan": "Sistem pengendalian intern sedang diperbaiki",
+                  "pic": "div-006",
+                  "status": "In Progress",
+                  "children": []
+                },
+                {
+                  "id": "sub-sub-param-demo-004",
+                  "level": 3,
+                  "nama": "Manajemen Risiko",
+                  "deskripsi": "Sub-sub parameter untuk manajemen risiko",
+                  "bobot": 0.200,
+                  "subFaktorLevel2": 0.75,
+                  "subFaktorLevel1": 1.0,
+                  "faktor": 1.0,
+                  "uraianPemenuhan": "Manajemen risiko sudah cukup baik",
+                  "pic": "div-007",
+                  "status": "Selesai",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "param-demo-002",
+          "level": 1,
+          "nama": "Responsibilitas Sosial",
+          "deskripsi": "Parameter untuk tanggung jawab sosial perusahaan",
+          "bobot": 0.600,
+          "subFaktorLevel2": 0.75,
+          "subFaktorLevel1": 1.0,
+          "faktor": 1.0,
+          "uraianPemenuhan": "Responsibilitas sosial masih perlu ditingkatkan",
+          "pic": "div-008",
+          "status": "Not Started",
+          "children": [
+            {
+              "id": "sub-param-demo-003",
+              "level": 2,
+              "nama": "Kepatuhan Hukum",
+              "deskripsi": "Sub parameter untuk kepatuhan hukum",
+              "bobot": 0.300,
+              "subFaktorLevel2": 0.5,
+              "subFaktorLevel1": 1.0,
+              "faktor": 1.0,
+              "uraianPemenuhan": "Kepatuhan hukum masih perlu ditingkatkan",
+              "pic": "div-008",
+              "status": "Not Started",
+              "children": []
+            },
+            {
+              "id": "sub-param-demo-004",
+              "level": 2,
+              "nama": "Etika Bisnis",
+              "deskripsi": "Sub parameter untuk etika bisnis",
+              "bobot": 0.300,
+              "subFaktorLevel2": 0.75,
+              "subFaktorLevel1": 1.0,
+              "faktor": 1.0,
+              "uraianPemenuhan": "Implementasi etika bisnis sudah ada",
+              "pic": "div-008",
+              "status": "In Progress",
+              "children": [
+                {
+                  "id": "sub-sub-param-demo-005",
+                  "level": 3,
+                  "nama": "Kode Etik Perusahaan",
+                  "deskripsi": "Sub-sub parameter untuk kode etik perusahaan",
+                  "bobot": 0.150,
+                  "subFaktorLevel2": 0.75,
+                  "subFaktorLevel1": 1.0,
+                  "faktor": 1.0,
+                  "uraianPemenuhan": "Kode etik sudah ada dan disosialisasikan",
+                  "pic": "div-009",
+                  "status": "Selesai",
+                  "children": []
+                },
+                {
+                  "id": "sub-sub-param-demo-006",
+                  "level": 3,
+                  "nama": "Program CSR",
+                  "deskripsi": "Sub-sub parameter untuk program CSR",
+                  "bobot": 0.150,
+                  "subFaktorLevel2": 0.75,
+                  "subFaktorLevel1": 1.0,
+                  "faktor": 1.0,
+                  "uraianPemenuhan": "Program CSR sudah berjalan baik",
+                  "pic": "div-005",
+                  "status": "In Progress",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": [
+        {
+          "id": "param-demo-001",
+          "level": 1,
+          "nama": "Tata Kelola Perusahaan",
+          "deskripsi": "Parameter utama untuk tata kelola perusahaan yang baik",
+          "bobot": 0.800,
+          "status": "Selesai"
+        },
+        {
+          "id": "sub-param-demo-001",
+          "level": 2,
+          "nama": "Transparansi",
+          "deskripsi": "Sub parameter untuk transparansi dalam pengelolaan perusahaan",
+          "bobot": 0.400,
+          "status": "Selesai"
+        },
+        {
+          "id": "sub-sub-param-demo-001",
+          "level": 3,
+          "nama": "Pengungkapan Informasi",
+          "deskripsi": "Sub-sub parameter untuk pengungkapan informasi",
+          "bobot": 0.200,
+          "status": "Selesai"
+        },
+        {
+          "id": "sub-sub-sub-param-demo-001",
+          "level": 4,
+          "nama": "Laporan Tahunan",
+          "deskripsi": "Sub-sub-sub parameter untuk laporan tahunan",
+          "bobot": 0.100,
+          "status": "Selesai"
+        },
+        {
+          "id": "sub-sub-sub-param-demo-002",
+          "level": 4,
+          "nama": "Laporan Keberlanjutan",
+          "deskripsi": "Sub-sub-sub parameter untuk laporan keberlanjutan",
+          "bobot": 0.100,
+          "status": "In Progress"
+        }
+      ]
+    }
+  ],
+  "totalElement": 1,
+  "totalPages": 1,
+  "currentPage": 0,
+  "size": 10
+}

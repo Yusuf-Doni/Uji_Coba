@@ -1,0 +1,187 @@
+{
+  "gcg-001": {
+    "code": 200,
+    "message": "Success",
+    "data": {
+      "id": "gcg-001",
+      "namaImplementasi": "GCG Implementation 2024",
+      "tahun": 2024,
+      "deskripsi": "Implementasi GCG untuk tahun 2024",
+      "totalAspects": 5,
+      "completedParameters": 8,
+      "totalParameters": 9,
+      "averageScore": 83,
+      "totalEvidence": 15,
+      "details": [
+        {
+          "aspect": "TATA KELOLA PERUSAHAAN",
+          "parameter": "PENGUNGKAPAN INFORMASI",
+          "score": 95,
+          "status": "Selesai",
+          "evidenceCount": 5,
+          "pic": "Divisi Komunikasi"
+        },
+        {
+          "aspect": "TATA KELOLA PERUSAHAAN",
+          "parameter": "TRANSPARANSI LAPORAN",
+          "score": 88,
+          "status": "Selesai",
+          "evidenceCount": 3,
+          "pic": "Divisi Sekretariat"
+        },
+        {
+          "aspect": "TATA KELOLA PERUSAHAAN",
+          "parameter": "KOMUNIKASI STAKEHOLDER",
+          "score": 92,
+          "status": "Selesai",
+          "evidenceCount": 7,
+          "pic": "Divisi Komunikasi"
+        },
+        {
+          "aspect": "AKUNTABILITAS",
+          "parameter": "SISTEM PENGENDALIAN INTERN",
+          "score": 85,
+          "status": "In Progress",
+          "evidenceCount": 4,
+          "pic": "Divisi Internal Audit"
+        },
+        {
+          "aspect": "AKUNTABILITAS",
+          "parameter": "MANAJEMEN RISIKO",
+          "score": 78,
+          "status": "In Progress",
+          "evidenceCount": 3,
+          "pic": "Divisi Manajemen Risiko"
+        },
+        {
+          "aspect": "AKUNTABILITAS",
+          "parameter": "AUDIT INTERN",
+          "score": 82,
+          "status": "In Progress",
+          "evidenceCount": 2,
+          "pic": "Divisi Internal Audit"
+        },
+        {
+          "aspect": "RESPONSIBILITAS",
+          "parameter": "KEPATUHAN HUKUM",
+          "score": 65,
+          "status": "Not Started",
+          "evidenceCount": 1,
+          "pic": "Divisi Hukum"
+        },
+        {
+          "aspect": "RESPONSIBILITAS",
+          "parameter": "ETIKA BISNIS",
+          "score": 70,
+          "status": "Not Started",
+          "evidenceCount": 2,
+          "pic": "Divisi Hukum"
+        },
+        {
+          "aspect": "RESPONSIBILITAS",
+          "parameter": "TANGGUNG JAWAB SOSIAL",
+          "score": 75,
+          "status": "Not Started",
+          "evidenceCount": 3,
+          "pic": "Divisi CSR"
+        }
+      ],
+      "recommendations": [
+        "Meningkatkan kepatuhan hukum dengan melakukan review regulasi terbaru secara berkala",
+        "Memperbaiki sistem pengendalian intern dengan implementasi teknologi yang lebih canggih",
+        "Meningkatkan program CSR dengan pengukuran impact yang lebih detail",
+        "Sosialisasi etika bisnis yang lebih intensif kepada seluruh karyawan",
+        "Peningkatan manajemen risiko dengan identifikasi risiko emerging yang lebih komprehensif"
+      ],
+      "summary": {
+        "excellent": 3,
+        "good": 3,
+        "fair": 2,
+        "poor": 1,
+        "totalScore": 83
+      },
+      "generatedAt": "2024-02-15T10:30:00Z",
+      "generatedBy": "System"
+    }
+  },
+  "gcg-002": {
+    "code": 200,
+    "message": "Success",
+    "data": {
+      "id": "gcg-002",
+      "namaImplementasi": "GCG Implementation 2024 - BOD-1",
+      "tahun": 2024,
+      "deskripsi": "Implementasi GCG untuk BOD-1 tahun 2024",
+      "totalAspects": 3,
+      "completedParameters": 5,
+      "totalParameters": 6,
+      "averageScore": 78,
+      "totalEvidence": 8,
+      "details": [
+        {
+          "aspect": "AKUNTABILITAS",
+          "parameter": "SISTEM PENGENDALIAN INTERN",
+          "score": 85,
+          "status": "In Progress",
+          "evidenceCount": 4,
+          "pic": "Divisi Internal Audit"
+        },
+        {
+          "aspect": "AKUNTABILITAS",
+          "parameter": "MANAJEMEN RISIKO",
+          "score": 78,
+          "status": "In Progress",
+          "evidenceCount": 3,
+          "pic": "Divisi Manajemen Risiko"
+        },
+        {
+          "aspect": "AKUNTABILITAS",
+          "parameter": "AUDIT INTERN",
+          "score": 82,
+          "status": "In Progress",
+          "evidenceCount": 2,
+          "pic": "Divisi Internal Audit"
+        },
+        {
+          "aspect": "RESPONSIBILITAS",
+          "parameter": "KEPATUHAN HUKUM",
+          "score": 65,
+          "status": "Not Started",
+          "evidenceCount": 1,
+          "pic": "Divisi Hukum"
+        },
+        {
+          "aspect": "RESPONSIBILITAS",
+          "parameter": "ETIKA BISNIS",
+          "score": 70,
+          "status": "Not Started",
+          "evidenceCount": 2,
+          "pic": "Divisi Hukum"
+        },
+        {
+          "aspect": "RESPONSIBILITAS",
+          "parameter": "TANGGUNG JAWAB SOSIAL",
+          "score": 75,
+          "status": "Not Started",
+          "evidenceCount": 3,
+          "pic": "Divisi CSR"
+        }
+      ],
+      "recommendations": [
+        "Fokus pada penyelesaian sistem pengendalian intern yang masih dalam tahap perbaikan",
+        "Meningkatkan kepatuhan hukum dengan training regulasi terbaru",
+        "Implementasi program etika bisnis yang lebih sistematis",
+        "Peningkatan monitoring dan evaluasi manajemen risiko"
+      ],
+      "summary": {
+        "excellent": 0,
+        "good": 3,
+        "fair": 2,
+        "poor": 1,
+        "totalScore": 78
+      },
+      "generatedAt": "2024-02-15T10:30:00Z",
+      "generatedBy": "System"
+    }
+  }
+}

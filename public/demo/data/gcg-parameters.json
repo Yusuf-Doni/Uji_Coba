@@ -1,0 +1,101 @@
+{
+  "asp-001": {
+    "code": 200,
+    "message": "Success",
+    "data": [
+      {
+        "id": "param-001",
+        "nama": "PENGUNGKAPAN INFORMASI",
+        "deskripsi": "Parameter untuk mengukur tingkat pengungkapan informasi perusahaan",
+        "aspectId": "asp-001",
+        "bobot": 0.609,
+        "urutan": 1,
+        "aktif": true
+      },
+      {
+        "id": "param-002",
+        "nama": "TRANSPARANSI LAPORAN",
+        "deskripsi": "Parameter untuk mengukur tingkat transparansi dalam pelaporan",
+        "aspectId": "asp-001",
+        "bobot": 0.609,
+        "urutan": 2,
+        "aktif": true
+      },
+      {
+        "id": "param-003",
+        "nama": "KOMUNIKASI STAKEHOLDER",
+        "deskripsi": "Parameter untuk mengukur efektivitas komunikasi dengan stakeholders",
+        "aspectId": "asp-001",
+        "bobot": 0.500,
+        "urutan": 3,
+        "aktif": true
+      }
+    ]
+  },
+  "asp-002": {
+    "code": 200,
+    "message": "Success",
+    "data": [
+      {
+        "id": "param-004",
+        "nama": "SISTEM PENGENDALIAN INTERN",
+        "deskripsi": "Parameter untuk mengukur efektivitas sistem pengendalian intern",
+        "aspectId": "asp-002",
+        "bobot": 1.050,
+        "urutan": 1,
+        "aktif": true
+      },
+      {
+        "id": "param-005",
+        "nama": "MANAJEMEN RISIKO",
+        "deskripsi": "Parameter untuk mengukur kualitas manajemen risiko",
+        "aspectId": "asp-002",
+        "bobot": 0.950,
+        "urutan": 2,
+        "aktif": true
+      },
+      {
+        "id": "param-006",
+        "nama": "AUDIT INTERN",
+        "deskripsi": "Parameter untuk mengukur efektivitas audit intern",
+        "aspectId": "asp-002",
+        "bobot": 0.800,
+        "urutan": 3,
+        "aktif": true
+      }
+    ]
+  },
+  "asp-003": {
+    "code": 200,
+    "message": "Success",
+    "data": [
+      {
+        "id": "param-007",
+        "nama": "KEPATUHAN HUKUM",
+        "deskripsi": "Parameter untuk mengukur tingkat kepatuhan terhadap peraturan",
+        "aspectId": "asp-003",
+        "bobot": 1.250,
+        "urutan": 1,
+        "aktif": true
+      },
+      {
+        "id": "param-008",
+        "nama": "ETIKA BISNIS",
+        "deskripsi": "Parameter untuk mengukur implementasi etika bisnis",
+        "aspectId": "asp-003",
+        "bobot": 1.000,
+        "urutan": 2,
+        "aktif": true
+      },
+      {
+        "id": "param-009",
+        "nama": "TANGGUNG JAWAB SOSIAL",
+        "deskripsi": "Parameter untuk mengukur tanggung jawab sosial perusahaan",
+        "aspectId": "asp-003",
+        "bobot": 0.750,
+        "urutan": 3,
+        "aktif": true
+      }
+    ]
+  }
+}

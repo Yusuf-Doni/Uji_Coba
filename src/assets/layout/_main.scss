@@ -1,0 +1,46 @@
+.layout-main-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: space-between;
+    padding: 6rem 2rem 0 0;
+    transition: margin-left var(--layout-section-transition-duration);
+    width: 100%;
+    max-width: 100vw;
+    box-sizing: border-box;
+}
+
+.layout-main {
+    flex: 1 1 auto;
+    padding-bottom: 2rem;
+    width: 100%;
+    max-width: 100%;
+    min-width: 100%;
+    box-sizing: border-box;
+}
+
+/* Ensure layout expands to fill available space */
+@media screen and (min-width: 1200px) {
+    .layout-main-container {
+        width: 100%;
+        max-width: none;
+    }
+    
+    .layout-main {
+        width: 100%;
+        max-width: none;
+    }
+}
+
+/* For very large screens, ensure full width utilization */
+@media screen and (min-width: 1600px) {
+    .layout-main-container {
+        padding-right: 3rem;
+    }
+}
+
+@media screen and (min-width: 2000px) {
+    .layout-main-container {
+        padding-right: 4rem;
+    }
+}

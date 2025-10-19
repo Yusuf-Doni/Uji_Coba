@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "message": "Success",
+  "data": [
+    {
+      "id": "asp-001",
+      "nama": "TATA KELOLA PERUSAHAAN",
+      "deskripsi": "Aspek yang berkaitan dengan tata kelola perusahaan yang baik",
+      "bobot": 7.000,
+      "urutan": 1,
+      "aktif": true
+    },
+    {
+      "id": "asp-002",
+      "nama": "AKUNTABILITAS",
+      "deskripsi": "Aspek yang berkaitan dengan akuntabilitas dalam pengelolaan perusahaan",
+      "bobot": 6.500,
+      "urutan": 2,
+      "aktif": true
+    },
+    {
+      "id": "asp-003",
+      "nama": "RESPONSIBILITAS",
+      "deskripsi": "Aspek yang berkaitan dengan tanggung jawab sosial perusahaan",
+      "bobot": 5.000,
+      "urutan": 3,
+      "aktif": true
+    },
+    {
+      "id": "asp-004",
+      "nama": "INDEPENDENSI",
+      "deskripsi": "Aspek yang berkaitan dengan independensi dalam pengambilan keputusan",
+      "bobot": 4.500,
+      "urutan": 4,
+      "aktif": true
+    },
+    {
+      "id": "asp-005",
+      "nama": "KEADILAN",
+      "deskripsi": "Aspek yang berkaitan dengan keadilan dalam perlakuan terhadap stakeholders",
+      "bobot": 4.000,
+      "urutan": 5,
+      "aktif": true
+    }
+  ]
+}

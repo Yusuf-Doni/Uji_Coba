@@ -1,0 +1,23 @@
+export default {
+    id: null,
+    nama: null,
+    nik: null,
+    kelurahan: null,
+    kecamatan: null,
+    kotaKabupaten: null,
+    provinsi: null,
+    kodePos: null,
+    alamat: null,
+    tempatLahir: null,
+    tanggalLahir: null,
+    npwp: null,
+    jenisKelamin: null,
+    jenisPekerjaan: null,
+    sertifikasi: null,
+    konduite: null,
+    email: null,
+    noTelepon: null,
+    foto: null,
+    statusPekerja: null,
+    status: null
+};

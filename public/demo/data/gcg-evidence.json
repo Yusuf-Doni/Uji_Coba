@@ -1,0 +1,86 @@
+{
+  "gcg-001": {
+    "code": 200,
+    "message": "Success",
+    "data": [
+      {
+        "id": "evid-001",
+        "fileName": "Laporan_Tahunan_2024.pdf",
+        "fileSize": 5242880,
+        "fileType": "pdf",
+        "uploadedAt": "2024-01-15T10:30:00Z",
+        "uploadedBy": "Admin Sekper",
+        "description": "Laporan tahunan perusahaan tahun 2024",
+        "downloadUrl": "/files/evidence/evid-001.pdf",
+        "parameterId": "param-001"
+      },
+      {
+        "id": "evid-002",
+        "fileName": "Laporan_Keberlanjutan_2024.pdf",
+        "fileSize": 3145728,
+        "fileType": "pdf",
+        "uploadedAt": "2024-01-20T14:45:00Z",
+        "uploadedBy": "Admin Sekper",
+        "description": "Laporan keberlanjutan dan CSR tahun 2024",
+        "downloadUrl": "/files/evidence/evid-002.pdf",
+        "parameterId": "param-001"
+      },
+      {
+        "id": "evid-003",
+        "fileName": "Dashboard_Transparansi.xlsx",
+        "fileSize": 1048576,
+        "fileType": "xlsx",
+        "uploadedAt": "2024-01-25T09:15:00Z",
+        "uploadedBy": "Admin Sekper",
+        "description": "Dashboard monitoring transparansi informasi",
+        "downloadUrl": "/files/evidence/evid-003.xlsx",
+        "parameterId": "param-002"
+      }
+    ]
+  },
+  "gcg-002": {
+    "code": 200,
+    "message": "Success",
+    "data": [
+      {
+        "id": "evid-004",
+        "fileName": "Sistem_Pengendalian_Intern.docx",
+        "fileSize": 2097152,
+        "fileType": "docx",
+        "uploadedAt": "2024-02-01T11:20:00Z",
+        "uploadedBy": "Admin Sekdekom",
+        "description": "Dokumen sistem pengendalian intern",
+        "downloadUrl": "/files/evidence/evid-004.docx",
+        "parameterId": "param-004"
+      },
+      {
+        "id": "evid-005",
+        "fileName": "Audit_Internal_Report.pdf",
+        "fileSize": 4194304,
+        "fileType": "pdf",
+        "uploadedAt": "2024-02-05T16:30:00Z",
+        "uploadedBy": "Admin Sekdekom",
+        "description": "Laporan audit internal periode Q1 2024",
+        "downloadUrl": "/files/evidence/evid-005.pdf",
+        "parameterId": "param-004"
+      }
+    ]
+  },
+  "gcg-003": {
+    "code": 200,
+    "message": "Success",
+    "data": [
+      {
+        "id": "evid-006",
+        "fileName": "Compliance_Checklist.xlsx",
+        "fileSize": 524288,
+        "fileType": "xlsx",
+        "uploadedAt": "2024-02-10T13:45:00Z",
+        "uploadedBy": "BOD-1",
+        "description": "Checklist kepatuhan hukum dan regulasi",
+        "downloadUrl": "/files/evidence/evid-006.xlsx",
+        "parameterId": "param-007"
+      }
+    ]
+  }
+}
